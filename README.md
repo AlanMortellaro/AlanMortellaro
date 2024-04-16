@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working in an IT department.
+- 🌱 By the way I’m currently learning JavaScript with Node.js, React.js and Next.js.
+- ⚡ Fun fact: I started out in IT because I wanted unlimited Kamas in Dofus.
 <!--
 **AlanMortellaro/AlanMortellaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
